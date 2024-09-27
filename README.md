@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing a Bachelor's degree in Computer Engineering at the National College of Engineering, affiliated with Tribhuvan University. Passionate about continuous learning, I'm actively exploring new opportunities to expand my skill set. Right now, I'm diving into JavaScript and React, embracing the exciting challenges they offer.
+“I am currently pursuing a Bachelor’s degree in Computer Engineering at the National College of Engineering, affiliated with Tribhuvan University. Driven by a passion for continuous learning, I actively seek new opportunities to expand my skill set. At present, I am delving into JavaScript and React, embracing the exciting challenges these technologies offer.”
 
 
 ## 🌐 Socials:

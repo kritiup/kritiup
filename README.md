@@ -28,6 +28,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+## 🏆 Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 

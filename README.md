@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kriti Upadhyay from Nepal</h1>
 <h6 align="center">“I am currently pursuing a Bachelor’s degree in Computer Engineering at the National College of Engineering, affiliated with Tribhuvan University. Driven by a passion for continuous learning, I actively seek new opportunities to expand my skill set. At present, I am delving into JavaScript and React, embracing the exciting challenges these technologies offer.”</h6>
 <img scr="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=790b7611qolq5i1xo2xbo583rcqvvbinqw2c2e8j4k1ooysh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="450px" align="right" alt="">
-<h2 align="center">⚡️ Where to find me</h2>
+<h2 align="center">Where to find me</h2>
 <p align="center"><a target="_blank" href="https://twitter.com/https://x.com/upadhyaykriti4?s=21" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/ https://www.linkedin.com/in/kriti-upadhyay-4952a7279/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/kirti.upadhyay.14" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
